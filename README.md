@@ -1,9 +1,9 @@
+## Warning: This is a port to windows in which some features are broken. Please use only to test out the concept and then setup linux and run normal Perceval
+
 # Perceval_windows [![Build Status](https://travis-ci.org/chaoss/grimoirelab-perceval.svg?branch=master)](https://travis-ci.org/chaoss/grimoirelab-perceval) [![Coverage Status](https://img.shields.io/coveralls/chaoss/grimoirelab-perceval.svg)](https://coveralls.io/r/chaoss/grimoirelab-perceval?branch=master) [![PyPI version](https://badge.fury.io/py/perceval.svg)](https://badge.fury.io/py/perceval) [![Documentation in RTD](https://readthedocs.org/projects/perceval/badge/)](http://perceval.readthedocs.io)
 
 Send Sir Perceval on a quest to retrieve and gather data from software
 repositories.
-
-## Warning: This is a port to windows in which some features are broken. Please use only to test out the concept and then setup linux and run normal Perceval
 
 ## Usage
 
