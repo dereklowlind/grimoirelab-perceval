@@ -3,6 +3,8 @@
 Send Sir Perceval on a quest to retrieve and gather data from software
 repositories.
 
+## Warning: This is a port to windows in which some features are broken. Please use only to test out the concept and then setup linux and run normal Perceval
+
 ## Usage
 
 ```
