@@ -72,10 +72,10 @@ cmdclass = {'test': TestCommand}
 setup(name="perceval_windows",
       description="Fetch data from software repositories",
       long_description=long_description,
-      url="https://github.com/chaoss/grimoirelab-perceval",
+      url="https://github.com/dereklowlind/grimoirelab-perceval",
       version=version,
       author="Bitergia",
-      author_email="sduenas@bitergia.com",
+      author_email="dereklowlind@gmail.com",
       license="GPLv3",
       classifiers=[
           'Development Status :: 5 - Production/Stable',
