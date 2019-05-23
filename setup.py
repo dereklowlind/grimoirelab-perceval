@@ -69,7 +69,7 @@ class TestCommand(TestClass):
 
 cmdclass = {'test': TestCommand}
 
-setup(name="perceval",
+setup(name="perceval_windows",
       description="Fetch data from software repositories",
       long_description=long_description,
       url="https://github.com/chaoss/grimoirelab-perceval",
